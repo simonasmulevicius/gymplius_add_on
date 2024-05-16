@@ -4,4 +4,4 @@ Welcome to the Gym+ Chrome Add-On 💪.
 
 Use me to automatically schedule your gym sessions!
 
-For any comments, send me a message on LinkedIn <https://www.linkedin.com/in/simonas-mulevicius/>
+For any comments, send me a message on [LinkedIn](https://www.linkedin.com/in/simonas-mulevicius/) or [via email](mailto:treneriux.info@gmail.com)
